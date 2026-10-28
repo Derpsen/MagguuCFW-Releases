@@ -6,7 +6,7 @@ Fertige Pakete (Zip-Dateien) für die Nintendo Switch. Hier liegt **nur das Pake
 - Entpacke das Zip in die **Wurzel** der SD-Karte (so, dass `atmosphere`, `bootloader`, `switch` direkt auf der SD liegen).
 - Lizenzen und Quellen: im Paket unter `config/magguucfw/LICENSES/UEBERSICHT.md`. Den Quelltext der eigenen Teile (Magguu Tools, reboot_ofw, MagguuOC) findest du als `MagguuCFW-Quelltext-<Version>.zip` im jeweiligen Release.
 - Prüfsummen: `SHA256SUMS` im Release. Die Update-Dateien (`latest-*.json`) sind mit Ed25519 signiert; Magguu Tools prüft die Signatur.
-- Version `0.1.0-rc5` ist ein **Release-Kandidat** und auf einer Switch **noch nicht geprüft**. Benutzung auf eigene Gefahr, keine Garantie. Dieses Paket steht in keiner Verbindung zu Nintendo.
+- Version `0.1.0-rc6` ist ein **Release-Kandidat** und auf einer Switch **noch nicht geprüft**. Benutzung auf eigene Gefahr, keine Garantie. Dieses Paket steht in keiner Verbindung zu Nintendo.
 - Fragen und Quelltext-Anfragen: Reiter **Issues**.
 
 ---
