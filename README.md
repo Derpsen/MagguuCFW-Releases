@@ -4,11 +4,11 @@ Fertige Pakete (Zip-Dateien) für die Nintendo Switch. Hier liegt **nur das Pake
 
 - Download: Reiter **Releases**. Seit `0.1.0-rc7` gibt es **ein** Zip: `MagguuCFW-<Version>.zip` (alles, mit MagguuOC). Die Zips `full-MagguuOC` und `minimal` gibt es nicht mehr.
 - Entpacke das Zip in die **Wurzel** der SD-Karte (so, dass `atmosphere`, `bootloader`, `switch` direkt auf der SD liegen).
-- **Update von älteren Versionen:** Wer `full` hat (z. B. rc24, rc23, rc22, rc21, rc20, rc19, rc18, rc17, rc16, rc15, rc14, rc13, rc12, rc11, rc10, rc9, rc8, rc7 oder rc6 `full`), bekommt rc25 ganz normal per Update in Magguu Tools.
-- **Einmaliger Schritt für alte `full-MagguuOC`- und `minimal`-Installationen (rc4 bis rc6):** Die alte Magguu Tools lehnt das neue Paket ab und ändert dabei nichts. Kopiere **einmal** `switch/magguu-tools/magguu-tools.nro` aus dem aktuellen Zip (rc25) an dieselbe Stelle auf der SD-Karte (oder entpacke das ganze Zip in die Wurzel), öffne Magguu Tools und tippe auf „Aktualisieren“. Danach laufen Updates wieder automatisch.
+- **Update von älteren Versionen:** Wer `full` hat (z. B. rc25, rc24, rc23, rc22, rc21, rc20, rc19, rc18, rc17, rc16, rc15, rc14, rc13, rc12, rc11, rc10, rc9, rc8, rc7 oder rc6 `full`), bekommt rc26 ganz normal per Update in Magguu Tools.
+- **Einmaliger Schritt für alte `full-MagguuOC`- und `minimal`-Installationen (rc4 bis rc6):** Die alte Magguu Tools lehnt das neue Paket ab und ändert dabei nichts. Kopiere **einmal** `switch/magguu-tools/magguu-tools.nro` aus dem aktuellen Zip (rc26) an dieselbe Stelle auf der SD-Karte (oder entpacke das ganze Zip in die Wurzel), öffne Magguu Tools und tippe auf „Aktualisieren“. Danach laufen Updates wieder automatisch.
 - Lizenzen und Quellen: im Paket unter `config/magguucfw/LICENSES/UEBERSICHT.md`. Den Quelltext der eigenen Teile (Magguu Tools, reboot_ofw, MagguuOC) findest du als `MagguuCFW-Quelltext-<Version>.zip` im jeweiligen Release.
 - Prüfsummen: `SHA256SUMS` im Release. Die Update-Dateien (`latest-*.json`) sind mit Ed25519 signiert; Magguu Tools prüft die Signatur.
-- Version `0.1.0-rc25` ist ein **Release-Kandidat** und auf einer Switch **noch weitgehend ungeprüft**. Benutzung auf eigene Gefahr, keine Garantie. Dieses Paket steht in keiner Verbindung zu Nintendo.
+- Version `0.1.0-rc26` ist ein **Release-Kandidat** und auf einer Switch **noch weitgehend ungeprüft**. Benutzung auf eigene Gefahr, keine Garantie. Dieses Paket steht in keiner Verbindung zu Nintendo.
 - Fragen und Quelltext-Anfragen: Reiter **Issues**.
 
 ---
